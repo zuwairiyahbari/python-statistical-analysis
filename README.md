@@ -37,9 +37,10 @@ Statistics calculated include:
 
 ## Files
 
-- `project2.py`
-- `BostonHousing.csv`
-- `input.txt`
+
+- `statistical_analysis.py` — Main program containing the statistical analysis and Gaussian elimination algorithms.
+- `BostonHousing.csv` — Dataset used for statistical analysis.
+- `input.txt` — Input file containing the system of linear equations.
 
 ## Course Context
 
